@@ -1,0 +1,13 @@
+.row > div {
+	border: 2px solid green;
+	background-color: #2d8c42;
+	color: white;
+}
+
+.row {
+	margin-bottom: 10px;
+}
+
+.col-xs-4 {
+	max-width: 50%;
+}
